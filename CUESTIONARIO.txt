@@ -5,5 +5,5 @@ La dirección IP es el nombre del dominio y los DNS es el encargado de traducir 
 Una canción de Spotify o cualquier información que se encuentre en el internet viaja por medio de ondas a tu dispositivo, para que así pueda ser reproducido.
 HTTP es un protocolo de acceso para las páginas web a través de Internet y HTTP son las siglas para Hypertext Transfer Protocol que se traduce al español como el “protocolo de transferencia de hipertextos”
 Para protegerte de los criminales de internet debes de tener una dirección IP segura y 
-no meterte o aceptar cosas que puedan ser potenciales virus. .
+no meterte o aceptar cosas que puedan ser potenciales virus..
 El proceso de la Búsqueda de Google puede dividirse en tres fases: Rastreo: Google explora la Web con programas automatizados, llamados rastreadores, que buscan páginas nuevas o actualizadas
