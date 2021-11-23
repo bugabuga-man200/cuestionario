@@ -1,4 +1,4 @@
-José  Antonio Lasso Alcorta   12.-1
+José  Antonio Lasso Alcorta   12.-1.
 ¿Qué es el internet? El internet es una comunidad virtual que puede comunicar todo el mundo y uno puede encontrar información que no encontraría físicamente.
 La información se transmite por medio de cables, donde la electricidad e  información viaja de un punto a otro.
 La dirección IP es el nombre del dominio y los DNS es el encargado de traducir los numeros de la dirección IP.
